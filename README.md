@@ -24,6 +24,7 @@ d. Display the last 5 data in the data frame
 Note: 
   - I used the %store function to store the variable in the database in which to use it for the other file.
   - I researched that %store only works in jupyter notebook and Ipython.
+  -  This is also why i cant save the file as .py
 
 ## Problem 1
 #### Function/s Used:
